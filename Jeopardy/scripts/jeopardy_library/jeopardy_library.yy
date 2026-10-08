@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"jeopardy_library",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"jeopardy_library",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
